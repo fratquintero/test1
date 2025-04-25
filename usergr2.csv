@@ -1,0 +1,12 @@
+user_id,user_name,product_id,product_name,purchase_date
+2,Bob,1,Laptop,2025-04-03
+2,Bob,2,Smartphone,2025-04-04
+2,Bob,3,Headphones,2025-04-05
+3,Charlie,1,Laptop,2025-04-04
+3,Charlie,2,Smartphone,2025-04-05
+3,Charlie,3,Headphones,2025-04-06
+4,David,4,Tablet,2023-10-26
+5,Eve,5,Smartwatch,2023-11-15
+6,Frank,6,Camera,2023-12-01
+7,Grace,7,Speaker,2024-01-20
+8,Heidi,8,Monitor,2024-02-10

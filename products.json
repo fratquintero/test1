@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "prod_id": 1001
+    },
+    {
+        "id": 2,
+        "name": "Smartphone",
+        "prod_id": 1002
+    },
+    {
+        "id": 3,
+        "name": "Headphones",
+        "prod_id": 1003
+    },
+    {
+        "id": 4,
+        "name": "Tablet",
+        "prod_id": 1004
+    },
+    {
+        "id": 5,
+        "name": "Smartwatch",
+        "prod_id": 1005
+    },
+    {
+        "id": 6,
+        "name": "Camera",
+        "prod_id": 1006
+    },
+    {
+        "id": 7,
+        "name": "Speaker",
+        "prod_id": 1007
+    },
+    {
+        "id": 8,
+        "name": "Monitor",
+        "prod_id": 1008
+    }
+]
